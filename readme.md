@@ -18,5 +18,7 @@ Aplikasi ini dirancang untuk memenuhi kebutuhan pengunjung kafe yang memiliki fa
  2. import some database to mongodb from 'db' directory
  3. install some packages `npm install or npm install --global`
  4. start the locYoben apps `npm start`
+ 
+ 
 ### Basicaly this is the same thing,, but this one is live, another word it can be access anywhere in the world -
 ### using heroku as webserver and mlab as live database
