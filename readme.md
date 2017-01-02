@@ -24,3 +24,6 @@ Aplikasi ini dirancang untuk memenuhi kebutuhan pengunjung kafe yang memiliki fa
 ### using heroku as webserver and mlab as live database
 
 # check this on https://locyoben.herokuapp.com
+
+
+http://paste.ubuntu.com/23727943/
