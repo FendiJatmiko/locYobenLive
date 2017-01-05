@@ -15,9 +15,10 @@ Aplikasi ini dirancang untuk memenuhi kebutuhan pengunjung kafe yang memiliki fa
 
 ## and after all tools mentioned above are installed, this is the next thing u gonna do :
  1. start MongoDb
- 2. import some database to mongodb from 'db' directory
- 3. install some packages `npm install or npm install --global`
- 4. start the locYoben apps `npm start`
+ 2. clone this repo `git clone https://github.com/fendijatmiko/locYobenLive.git` && cd locYobenLive
+ 3. import some database to mongodb from 'db' directory
+ 4. after entering locYobenLive directory u can go ahead and install some packages by issue these command on your cli `npm install or npm install --global`
+ 5. start the locYoben apps `npm start`
  
  
 ### Basicaly this is the same thing,, but this one is live, another word it can be access anywhere in the world -
