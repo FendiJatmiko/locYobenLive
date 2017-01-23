@@ -7,7 +7,7 @@
   locYobenData.$inject = ['$http', 'authentication'];
   function locYobenData ($http, authentication) {
     var locationByCoords = function (lat, lng) {
-      return $http.get('/api/locations?lng=' + lng + '&lat=' + lat + '&maxDistance=250');
+      return $http.get('/api/locations?lng=' + lng + '&lat=' + lat + '&maxDistance=550');
     };
 
     var locationById = function (locationid) {
