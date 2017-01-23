@@ -2,7 +2,7 @@ var mongoose = require('mongoose');
 var gracefulShutdown;
 
 if (process.env.NODE_ENV === 'production') {
-    dbURI = 'mongodb://fendiD:thelogock123@54.80.42.160:33358/locyoben';
+    dbURI = 'mongodb://fendiD:thelogock123@ds127389.mlab.com:27389/locyoben';
 }
 
 mongoose.connect(dbURI);
